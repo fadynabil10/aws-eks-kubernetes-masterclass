@@ -163,9 +163,3 @@
 - AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
 - Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
 - Any beginner who is interested in learning Kubernetes DevOps and Microservices deployments on Kubernetes
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
